@@ -2,8 +2,8 @@
 
 #Basic definitions:
 
-               Trip is a collection of unordered heterogeneous events that begins with an ignition turned ONevent
- and ends when the ignition is turned OFF event. 
+               Trip is a collection of unordered heterogeneous events that begins with an ignition turned ON
+               event &  ends when the ignition is turned OFF event. 
 
 #Scoring a trip:
 
