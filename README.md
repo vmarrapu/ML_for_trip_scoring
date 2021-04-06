@@ -23,9 +23,11 @@
                   	Age/Gender/Past Experience*
                   
 About the input anonymized dataset:
-          VIN, trip start/end times and ODO read are fully anonymized however key event data is real.
-   Intent of this POC is to score the trip and give a feedback to end user so that it positively encourages the driving behavior.
-   i.e., lesser score because of these bad events and positive score because of these positive events.
+          ALT_ID, trip start/end times and ODO read values are  mocked however key event data is inspired based on real event dataset.
+   Intent of this POC is to score the trip and give a feedback to end user so that it positively 
+   encourages the driving behavio i.e., lesser score because of these bad events and positive score because of these positive events.
+   
    
    Description of the input data: CSV file.
+   
 
